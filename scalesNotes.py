@@ -69,7 +69,7 @@ for v in values:
 #print(major, menor)
 # play the C major scale, hz
 #scale = [130.8, 146.8, 164.8, 174.6, 195.0, 220.0, 246.9, 261.6]
-scale = [100,600]
+scale = [160,200]
 initValues = menor
 initScale = scale[0]
 rangeScale = scale[-1] - scale[0]
